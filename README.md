@@ -9,6 +9,7 @@ The exploit works by sending either a GET or POST request to the /user/new api e
 Fr this exploit op and ive used it for so long cant wait for it to get patched by the half brained dev team 🥳
 
 ![image](https://user-images.githubusercontent.com/63435309/185244467-11ddaaa1-f2f0-49e9-9fa5-c4e061c41977.png)
+![image](https://user-images.githubusercontent.com/63435309/185254409-ec24db5d-6ce9-40c3-8a92-1b6b1baf57a7.png)
 ![image](https://user-images.githubusercontent.com/63435309/185244998-2149e19a-58e8-48c1-a794-df93f1d0d35a.png)
 ![image](https://user-images.githubusercontent.com/63435309/185245033-f8f38463-9bed-4c4c-bee3-ad621b38434e.png)
 
