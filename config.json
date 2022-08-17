@@ -1,5 +1,5 @@
 {
   "proxyless":false,
   "proxy":"proxy.sh4dow.wtf:8000",
-  "note":"Proxy is rotating, ill add proxy list support / proxyless later on"
+  "note":"Proxy is rotating, ill add proxy list support & proxyless later on"
 }
