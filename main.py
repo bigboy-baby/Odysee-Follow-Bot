@@ -1,5 +1,5 @@
 #Code and exploit by bigboybigboi#0001 skid if ur homosexual (ew)
-import requests, random, string, threading, json
+import requests, threading, json
 
 with open('config.json') as config_file:
   config = json.load(config_file)
@@ -11,7 +11,6 @@ def follow(user, prox):
   }
   while True:
     try:
-      claim = ('').join(random.choices(string.ascii_letters + string.digits, k=40))
 
       r = requests.get('https://api.odysee.com/user/new', proxies=proxy)
       dat = r.json()
