@@ -1,7 +1,7 @@
 Odysee.com Follow Bot
 
 Basically odysee is a popular alternative to YouTube. 
-I found an exploit to generate "accounts" instantly and infintely a while ago (probably back around feburary or march)
+I found an exploit to generate "accounts" instantly and infinitely a while ago (probably back around feburary or march)
 A couple months ago I shared this with [@clipssender31](https://github.com/clipssender31) and sent my code, he then threaded it and added proxies. 
 Anyways I got bored a couple days ago and decided to make my own version of this shit and yeah gg.
 
